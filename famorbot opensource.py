@@ -4,7 +4,7 @@ from numpy.random import f
 from pymongo import MongoClient
 import discord
 import random
-import rngmsg
+import rngmsg # el codigo de rngmsg esta hasta el final
 import asyncio
 import datetime
 import math
